@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255648417827",
+    "project_id": "kpuapp-1d035",
+    "storage_bucket": "kpuapp-1d035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255648417827:android:181c437cb70e576e44c996",
+        "android_client_info": {
+          "package_name": "com.example.kpu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255648417827-8ig747j34vgj52vosrlk57j6l1vgghmd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiOVknEWUJ18cqZfowd-zoYuLJPxa4vUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255648417827-8ig747j34vgj52vosrlk57j6l1vgghmd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
